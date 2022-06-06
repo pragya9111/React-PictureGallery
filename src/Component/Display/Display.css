@@ -1,0 +1,28 @@
+.display{
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.cards{
+    width: 100vw;
+    height: 35vh;
+    /* background-color: aquamarine; */
+    display: flex;
+    overflow-x: auto;
+}
+.imagecard{
+    width: 13vw;
+    height: 35vh;
+    /* background-color: aqua; */
+    margin-left: 3vmax;
+    display: flex;
+    object-fit: cover;
+    border: 15px solid rgb(242, 241, 241);
+    overflow: hidden;
+}
+
+img{
+    width: 100%;
+}

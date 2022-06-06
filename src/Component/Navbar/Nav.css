@@ -1,0 +1,14 @@
+.nav{
+    width: 100vw;
+    height: 10vh;
+    background-color: #0b1f2a98;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    font-family:chamelia blinkar ;
+}
+h1{
+    letter-spacing: 1px ;
+    font-size: 2.5vmax;
+}
